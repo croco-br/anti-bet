@@ -8,7 +8,7 @@ O repositório contém os seguintes arquivos e diretórios principais:
 
 - static: arquivos js
 - templates: arquivos html
-Os arquivos python ficam na raiz do projeto.
+- Os arquivos python ficam na raiz do projeto.
 
 # Principais Recursos
 Esse sistema tem como finalidade simular uma operação de uma casa de apostas, permitindo escolher valor médio, % de chance da banca ganhar e quantidade de apostas.
