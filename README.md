@@ -1,10 +1,13 @@
 # Descrição
 Esse repositório contém código e recursos destinados a simular a operação de uma casa de apostas e tem o intuito educacional.
 
+É possível acessar a versão web no seguinte endereço: https://bet-simulator.onrender.com/
+
 # Estrutura do Diretório
 O repositório contém os seguintes arquivos e diretórios principais:
-static: arquivos js
-templates: arquivos html
+
+- static: arquivos js
+- templates: arquivos html
 Os arquivos python ficam na raiz do projeto.
 
 # Principais Recursos
